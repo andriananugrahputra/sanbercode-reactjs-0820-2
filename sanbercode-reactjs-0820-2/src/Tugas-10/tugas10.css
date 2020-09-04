@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+}
+table{
+	border: 1px solid black;
+	width: 60%;
+	margin: auto;
+}
+thead{
+	background-color: #aaaaaa;
+}
+tbody{
+	background-color: #ff7f50;
+}
