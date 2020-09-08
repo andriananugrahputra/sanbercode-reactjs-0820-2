@@ -5,7 +5,7 @@ class Timer extends Component{
         super()
 
         this.state = {
-            countDown: 10,
+            countDown: 100,
             currentTime : new Date().getHours() + ':' + new Date().getMinutes() + ':' + new Date().getSeconds(),
             show: true
         }
