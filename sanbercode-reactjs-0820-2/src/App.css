@@ -1,17 +1,21 @@
-.div-container{
+.div-container {
   border: 1px solid #0d0d0d;
-  border-radius: 15px; 
-  width: 450px; 
-  height: 270px; 
-  padding: 15px; 
-  font-family: 'Times New Roman', Times, serif;
+  border-radius: 15px;
+  width: 450px;
+  height: 270px;
+  padding: 15px;
+  font-family: "Times New Roman", Times, serif;
 }
-.div-container h1{
+.div-container h1 {
   text-align: center;
 }
-.div-container span{
-  display: inline-block; 
+.div-container span {
+  display: inline-block;
   width: 155px;
-  font-weight: bold; 
+  font-weight: bold;
   font-size: 18px;
+}
+.dark-theme {
+  background-color: black;
+  color: white;
 }
